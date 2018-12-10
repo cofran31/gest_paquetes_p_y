@@ -1,6 +1,6 @@
 {
   "name": "gest_paquetes_p_y",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resuelve sudoku ",
   "main": "index.js",
   "scripts": {
