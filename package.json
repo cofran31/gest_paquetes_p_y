@@ -1,0 +1,25 @@
+{
+  "name": "gest_paquetes_p_y",
+  "version": "1.0.0",
+  "description": "Resuelve sudoku ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cofran31/gest_paquetes_p_y.git"
+  },
+  "keywords": [
+    "solve",
+    "sudoku",
+    "solucion",
+    "resolver"
+  ],
+  "author": "carlos ortube",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cofran31/gest_paquetes_p_y/issues"
+  },
+  "homepage": "https://github.com/cofran31/gest_paquetes_p_y#readme"
+}
